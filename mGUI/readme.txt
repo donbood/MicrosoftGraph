@@ -1,0 +1,1 @@
+Use the Microsoft Graph and Powershell to construct an interactive user profile rendering.
